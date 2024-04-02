@@ -1,0 +1,47 @@
+[
+    {
+        "Type": "Affordable Housing",
+        "In progress": 6.0,
+        "Completed": 1.0
+    },
+    {
+        "Type": "Facility",
+        "In progress": 17.0,
+        "Completed": 6.0
+    },
+    {
+        "Type": "Other",
+        "In progress": 8.0,
+        "Completed": 1.0
+    },
+    {
+        "Type": "Park",
+        "In progress": 11.0,
+        "Completed": 10.0
+    },
+    {
+        "Type": "Sewer",
+        "In progress": 3.0,
+        "Completed": 3.0
+    },
+    {
+        "Type": "Sidewalk",
+        "In progress": 2.0,
+        "Completed": 1.0
+    },
+    {
+        "Type": "Storm",
+        "In progress": 0.0,
+        "Completed": 6.0
+    },
+    {
+        "Type": "Street",
+        "In progress": 3.0,
+        "Completed": 12.0
+    },
+    {
+        "Type": "Transportation",
+        "In progress": 6.0,
+        "Completed": 7.0
+    }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "Id": "L3",
+    "Name": "LTD 3",
+    "FromDate": "2023-09-23T00:00:00-08:00",
+    "ToDate": "2024-06-01T23:59:00-08:00",
+    "TransportMode": "rail",
+    "PublicCode": "L3",
+    "SiriLineRef": "L3",
+    "Monitored": true,
+    "OperatorRef": "CT"
+  },
+  {
+    "Id": "L4",
+    "Name": "LTD 4",
+    "FromDate": "2023-09-23T00:00:00-08:00",
+    "ToDate": "2024-06-01T23:59:00-08:00",
+    "TransportMode": "rail",
+    "PublicCode": "L4",
+    "SiriLineRef": "L4",
+    "Monitored": true,
+    "OperatorRef": "CT"
+  },
+  {
+    "Id": "L5",
+    "Name": "LTD 5",
+    "FromDate": "2023-09-23T00:00:00-08:00",
+    "ToDate": "2024-06-01T23:59:00-08:00",
+    "TransportMode": "rail",
+    "PublicCode": "L5",
+    "SiriLineRef": "L5",
+    "Monitored": true,
+    "OperatorRef": "CT"
+  },
+  {
+    "Id": "L2",
+    "Name": "Local",
+    "FromDate": "2023-09-23T00:00:00-08:00",
+    "ToDate": "2024-06-01T23:59:00-08:00",
+    "TransportMode": "rail",
+    "PublicCode": "L2",
+    "SiriLineRef": "L2",
+    "Monitored": true,
+    "OperatorRef": "CT"
+  },
+  {
+    "Id": "L1",
+    "Name": "Local",
+    "FromDate": "2023-09-23T00:00:00-08:00",
+    "ToDate": "2024-06-01T23:59:00-08:00",
+    "TransportMode": "rail",
+    "PublicCode": "L1",
+    "SiriLineRef": "L1",
+    "Monitored": true,
+    "OperatorRef": "CT"
+  },
+  {
+    "Id": "B7",
+    "Name": "Bullet",
+    "FromDate": "2023-09-23T00:00:00-08:00",
+    "ToDate": "2024-06-01T23:59:00-08:00",
+    "TransportMode": "rail",
+    "PublicCode": "B7",
+    "SiriLineRef": "B7",
+    "Monitored": true,
+    "OperatorRef": "CT"
+  }
+]

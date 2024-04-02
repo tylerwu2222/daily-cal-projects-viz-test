@@ -1,0 +1,1612 @@
+[
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "ANTC",
+        "stop_name": "Antioch",
+        "longitude": -121.780353,
+        "latitude": 37.995415
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "PCTR",
+        "stop_name": "Pittsburg Center",
+        "longitude": -121.889011,
+        "latitude": 38.016873
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "PITT",
+        "stop_name": "Pittsburg \/ Bay Point",
+        "longitude": -121.944248,
+        "latitude": 38.01895
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "NCON",
+        "stop_name": "North Concord \/ Martinez",
+        "longitude": -122.024561,
+        "latitude": 38.003407
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "CONC",
+        "stop_name": "Concord",
+        "longitude": -122.029126,
+        "latitude": 37.973773
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "PHIL",
+        "stop_name": "Pleasant Hill \/ Contra Costa Centre",
+        "longitude": -122.056015,
+        "latitude": 37.928463
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "WCRK",
+        "stop_name": "Walnut Creek",
+        "longitude": -122.067379,
+        "latitude": 37.905812
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "LAFY",
+        "stop_name": "Lafayette",
+        "longitude": -122.124644,
+        "latitude": 37.89322
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "ORIN",
+        "stop_name": "Orinda",
+        "longitude": -122.183717,
+        "latitude": 37.878503
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "ROCK",
+        "stop_name": "Rockridge",
+        "longitude": -122.251271,
+        "latitude": 37.844795
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "MCAR",
+        "stop_name": "MacArthur",
+        "longitude": -122.267163,
+        "latitude": 37.828814
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "19TH",
+        "stop_name": "19th Street Oakland",
+        "longitude": -122.268722,
+        "latitude": 37.80806
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "12TH",
+        "stop_name": "12th Street \/ Oakland City Center",
+        "longitude": -122.271589,
+        "latitude": 37.803471
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "COLM",
+        "stop_name": "Colma",
+        "longitude": -122.466167,
+        "latitude": 37.684642
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "SSAN",
+        "stop_name": "South San Francisco",
+        "longitude": -122.444254,
+        "latitude": 37.664437
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "SBRN",
+        "stop_name": "San Bruno",
+        "longitude": -122.416384,
+        "latitude": 37.63772
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "SFIA",
+        "stop_name": "San Francisco International Airport",
+        "longitude": -122.391895,
+        "latitude": 37.616023
+    },
+    {
+        "line_id": "Yellow-S",
+        "stop_id": "MLBR",
+        "stop_name": "Millbrae (Caltrain Transfer Platform)",
+        "longitude": -122.38684,
+        "latitude": 37.600199
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "BERY",
+        "stop_name": "Berryessa \/ North San Jose",
+        "longitude": -121.874661,
+        "latitude": 37.368495
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "MLPT",
+        "stop_name": "Milpitas",
+        "longitude": -121.890803,
+        "latitude": 37.409836
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "WARM",
+        "stop_name": "Warm Springs \/ South Fremont",
+        "longitude": -121.939358,
+        "latitude": 37.502307
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "FRMT",
+        "stop_name": "Fremont",
+        "longitude": -121.976605,
+        "latitude": 37.557513
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "UCTY",
+        "stop_name": "Union City",
+        "longitude": -122.01723,
+        "latitude": 37.590765
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "SHAY",
+        "stop_name": "South Hayward",
+        "longitude": -122.057158,
+        "latitude": 37.634363
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "HAYW",
+        "stop_name": "Hayward",
+        "longitude": -122.086941,
+        "latitude": 37.669731
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "BAYF",
+        "stop_name": "Bay Fair",
+        "longitude": -122.126431,
+        "latitude": 37.696938
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "SANL",
+        "stop_name": "San Leandro",
+        "longitude": -122.160713,
+        "latitude": 37.721806
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "FTVL",
+        "stop_name": "Fruitvale",
+        "longitude": -122.224067,
+        "latitude": 37.774873
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "LAKE",
+        "stop_name": "Lake Merritt",
+        "longitude": -122.265232,
+        "latitude": 37.797357
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "12TH",
+        "stop_name": "12th Street \/ Oakland City Center",
+        "longitude": -122.271589,
+        "latitude": 37.803471
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "19TH",
+        "stop_name": "19th Street Oakland",
+        "longitude": -122.268722,
+        "latitude": 37.80806
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "MCAR",
+        "stop_name": "MacArthur",
+        "longitude": -122.267163,
+        "latitude": 37.828814
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "ASHB",
+        "stop_name": "Ashby",
+        "longitude": -122.26975,
+        "latitude": 37.853069
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "DBRK",
+        "stop_name": "Downtown Berkeley",
+        "longitude": -122.268078,
+        "latitude": 37.870117
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "NBRK",
+        "stop_name": "North Berkeley",
+        "longitude": -122.283508,
+        "latitude": 37.874032
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "PLZA",
+        "stop_name": "El Cerrito Plaza",
+        "longitude": -122.298895,
+        "latitude": 37.902633
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "DELN",
+        "stop_name": "El Cerrito Del Norte",
+        "longitude": -122.316868,
+        "latitude": 37.925205
+    },
+    {
+        "line_id": "Orange-N",
+        "stop_id": "RICH",
+        "stop_name": "Richmond",
+        "longitude": -122.353004,
+        "latitude": 37.936795
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "RICH",
+        "stop_name": "Richmond",
+        "longitude": -122.353004,
+        "latitude": 37.936795
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "DELN",
+        "stop_name": "El Cerrito Del Norte",
+        "longitude": -122.316868,
+        "latitude": 37.925205
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "PLZA",
+        "stop_name": "El Cerrito Plaza",
+        "longitude": -122.298895,
+        "latitude": 37.902633
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "NBRK",
+        "stop_name": "North Berkeley",
+        "longitude": -122.283508,
+        "latitude": 37.874032
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "DBRK",
+        "stop_name": "Downtown Berkeley",
+        "longitude": -122.268078,
+        "latitude": 37.870117
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "ASHB",
+        "stop_name": "Ashby",
+        "longitude": -122.26975,
+        "latitude": 37.853069
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "MCAR",
+        "stop_name": "MacArthur",
+        "longitude": -122.267163,
+        "latitude": 37.828814
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "19TH",
+        "stop_name": "19th Street Oakland",
+        "longitude": -122.268722,
+        "latitude": 37.80806
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "12TH",
+        "stop_name": "12th Street \/ Oakland City Center",
+        "longitude": -122.271589,
+        "latitude": 37.803471
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "LAKE",
+        "stop_name": "Lake Merritt",
+        "longitude": -122.265232,
+        "latitude": 37.797357
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "FTVL",
+        "stop_name": "Fruitvale",
+        "longitude": -122.224067,
+        "latitude": 37.774873
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "SANL",
+        "stop_name": "San Leandro",
+        "longitude": -122.160713,
+        "latitude": 37.721806
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "BAYF",
+        "stop_name": "Bay Fair",
+        "longitude": -122.126431,
+        "latitude": 37.696938
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "HAYW",
+        "stop_name": "Hayward",
+        "longitude": -122.086941,
+        "latitude": 37.669731
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "SHAY",
+        "stop_name": "South Hayward",
+        "longitude": -122.057158,
+        "latitude": 37.634363
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "UCTY",
+        "stop_name": "Union City",
+        "longitude": -122.01723,
+        "latitude": 37.590765
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "FRMT",
+        "stop_name": "Fremont",
+        "longitude": -121.976605,
+        "latitude": 37.557513
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "WARM",
+        "stop_name": "Warm Springs \/ South Fremont",
+        "longitude": -121.939358,
+        "latitude": 37.502307
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "MLPT",
+        "stop_name": "Milpitas",
+        "longitude": -121.890803,
+        "latitude": 37.409836
+    },
+    {
+        "line_id": "Orange-S",
+        "stop_id": "BERY",
+        "stop_name": "Berryessa \/ North San Jose",
+        "longitude": -121.874661,
+        "latitude": 37.368495
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "BERY",
+        "stop_name": "Berryessa \/ North San Jose",
+        "longitude": -121.874661,
+        "latitude": 37.368495
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "MLPT",
+        "stop_name": "Milpitas",
+        "longitude": -121.890803,
+        "latitude": 37.409836
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "WARM",
+        "stop_name": "Warm Springs \/ South Fremont",
+        "longitude": -121.939358,
+        "latitude": 37.502307
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "FRMT",
+        "stop_name": "Fremont",
+        "longitude": -121.976605,
+        "latitude": 37.557513
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "UCTY",
+        "stop_name": "Union City",
+        "longitude": -122.01723,
+        "latitude": 37.590765
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "SHAY",
+        "stop_name": "South Hayward",
+        "longitude": -122.057158,
+        "latitude": 37.634363
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "HAYW",
+        "stop_name": "Hayward",
+        "longitude": -122.086941,
+        "latitude": 37.669731
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "BAYF",
+        "stop_name": "Bay Fair",
+        "longitude": -122.126431,
+        "latitude": 37.696938
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "SANL",
+        "stop_name": "San Leandro",
+        "longitude": -122.160713,
+        "latitude": 37.721806
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "FTVL",
+        "stop_name": "Fruitvale",
+        "longitude": -122.224067,
+        "latitude": 37.774873
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "LAKE",
+        "stop_name": "Lake Merritt",
+        "longitude": -122.265232,
+        "latitude": 37.797357
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Green-S",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "RICH",
+        "stop_name": "Richmond",
+        "longitude": -122.353004,
+        "latitude": 37.936795
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "DELN",
+        "stop_name": "El Cerrito Del Norte",
+        "longitude": -122.316868,
+        "latitude": 37.925205
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "PLZA",
+        "stop_name": "El Cerrito Plaza",
+        "longitude": -122.298895,
+        "latitude": 37.902633
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "NBRK",
+        "stop_name": "North Berkeley",
+        "longitude": -122.283508,
+        "latitude": 37.874032
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "DBRK",
+        "stop_name": "Downtown Berkeley",
+        "longitude": -122.268078,
+        "latitude": 37.870117
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "ASHB",
+        "stop_name": "Ashby",
+        "longitude": -122.26975,
+        "latitude": 37.853069
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "MCAR",
+        "stop_name": "MacArthur",
+        "longitude": -122.267163,
+        "latitude": 37.828814
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "19TH",
+        "stop_name": "19th Street Oakland",
+        "longitude": -122.268722,
+        "latitude": 37.80806
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "12TH",
+        "stop_name": "12th Street \/ Oakland City Center",
+        "longitude": -122.271589,
+        "latitude": 37.803471
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "COLM",
+        "stop_name": "Colma",
+        "longitude": -122.466167,
+        "latitude": 37.684642
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "SSAN",
+        "stop_name": "South San Francisco",
+        "longitude": -122.444254,
+        "latitude": 37.664437
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "SBRN",
+        "stop_name": "San Bruno",
+        "longitude": -122.416384,
+        "latitude": 37.63772
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "SFIA",
+        "stop_name": "San Francisco International Airport",
+        "longitude": -122.391895,
+        "latitude": 37.616023
+    },
+    {
+        "line_id": "Red-S",
+        "stop_id": "MLBR",
+        "stop_name": "Millbrae (Caltrain Transfer Platform)",
+        "longitude": -122.38684,
+        "latitude": 37.600199
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "MLBR",
+        "stop_name": "Millbrae (Caltrain Transfer Platform)",
+        "longitude": -122.38684,
+        "latitude": 37.600199
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "SFIA",
+        "stop_name": "San Francisco International Airport",
+        "longitude": -122.391895,
+        "latitude": 37.616023
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "SBRN",
+        "stop_name": "San Bruno",
+        "longitude": -122.416384,
+        "latitude": 37.63772
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "SSAN",
+        "stop_name": "South San Francisco",
+        "longitude": -122.444254,
+        "latitude": 37.664437
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "COLM",
+        "stop_name": "Colma",
+        "longitude": -122.466167,
+        "latitude": 37.684642
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "12TH",
+        "stop_name": "12th Street \/ Oakland City Center",
+        "longitude": -122.271589,
+        "latitude": 37.803471
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "19TH",
+        "stop_name": "19th Street Oakland",
+        "longitude": -122.268722,
+        "latitude": 37.80806
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "MCAR",
+        "stop_name": "MacArthur",
+        "longitude": -122.267163,
+        "latitude": 37.828814
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "ASHB",
+        "stop_name": "Ashby",
+        "longitude": -122.26975,
+        "latitude": 37.853069
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "DBRK",
+        "stop_name": "Downtown Berkeley",
+        "longitude": -122.268078,
+        "latitude": 37.870117
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "NBRK",
+        "stop_name": "North Berkeley",
+        "longitude": -122.283508,
+        "latitude": 37.874032
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "PLZA",
+        "stop_name": "El Cerrito Plaza",
+        "longitude": -122.298895,
+        "latitude": 37.902633
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "DELN",
+        "stop_name": "El Cerrito Del Norte",
+        "longitude": -122.316868,
+        "latitude": 37.925205
+    },
+    {
+        "line_id": "Red-N",
+        "stop_id": "RICH",
+        "stop_name": "Richmond",
+        "longitude": -122.353004,
+        "latitude": 37.936795
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "DUBL",
+        "stop_name": "Dublin \/ Pleasanton",
+        "longitude": -121.899242,
+        "latitude": 37.701692
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "WDUB",
+        "stop_name": "West Dublin \/ Pleasanton",
+        "longitude": -121.928301,
+        "latitude": 37.69976
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "CAST",
+        "stop_name": "Castro Valley",
+        "longitude": -122.075615,
+        "latitude": 37.690776
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "BAYF",
+        "stop_name": "Bay Fair",
+        "longitude": -122.126431,
+        "latitude": 37.696938
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "SANL",
+        "stop_name": "San Leandro",
+        "longitude": -122.160713,
+        "latitude": 37.721806
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "FTVL",
+        "stop_name": "Fruitvale",
+        "longitude": -122.224067,
+        "latitude": 37.774873
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "LAKE",
+        "stop_name": "Lake Merritt",
+        "longitude": -122.265232,
+        "latitude": 37.797357
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Blue-S",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "MLBR",
+        "stop_name": "Millbrae (Caltrain Transfer Platform)",
+        "longitude": -122.38684,
+        "latitude": 37.600199
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "SFIA",
+        "stop_name": "San Francisco International Airport",
+        "longitude": -122.391895,
+        "latitude": 37.616023
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "SBRN",
+        "stop_name": "San Bruno",
+        "longitude": -122.416384,
+        "latitude": 37.63772
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "SSAN",
+        "stop_name": "South San Francisco",
+        "longitude": -122.444254,
+        "latitude": 37.664437
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "COLM",
+        "stop_name": "Colma",
+        "longitude": -122.466167,
+        "latitude": 37.684642
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "12TH",
+        "stop_name": "12th Street \/ Oakland City Center",
+        "longitude": -122.271589,
+        "latitude": 37.803471
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "19TH",
+        "stop_name": "19th Street Oakland",
+        "longitude": -122.268722,
+        "latitude": 37.80806
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "MCAR",
+        "stop_name": "MacArthur",
+        "longitude": -122.267163,
+        "latitude": 37.828814
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "ROCK",
+        "stop_name": "Rockridge",
+        "longitude": -122.251271,
+        "latitude": 37.844795
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "ORIN",
+        "stop_name": "Orinda",
+        "longitude": -122.183717,
+        "latitude": 37.878503
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "LAFY",
+        "stop_name": "Lafayette",
+        "longitude": -122.124644,
+        "latitude": 37.89322
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "WCRK",
+        "stop_name": "Walnut Creek",
+        "longitude": -122.067379,
+        "latitude": 37.905812
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "PHIL",
+        "stop_name": "Pleasant Hill \/ Contra Costa Centre",
+        "longitude": -122.056015,
+        "latitude": 37.928463
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "CONC",
+        "stop_name": "Concord",
+        "longitude": -122.029126,
+        "latitude": 37.973773
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "NCON",
+        "stop_name": "North Concord \/ Martinez",
+        "longitude": -122.024561,
+        "latitude": 38.003407
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "PITT",
+        "stop_name": "Pittsburg \/ Bay Point",
+        "longitude": -121.944248,
+        "latitude": 38.01895
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "PCTR",
+        "stop_name": "Pittsburg Center",
+        "longitude": -121.889011,
+        "latitude": 38.016873
+    },
+    {
+        "line_id": "Yellow-N",
+        "stop_id": "ANTC",
+        "stop_name": "Antioch",
+        "longitude": -121.780353,
+        "latitude": 37.995415
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "LAKE",
+        "stop_name": "Lake Merritt",
+        "longitude": -122.265232,
+        "latitude": 37.797357
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "FTVL",
+        "stop_name": "Fruitvale",
+        "longitude": -122.224067,
+        "latitude": 37.774873
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "SANL",
+        "stop_name": "San Leandro",
+        "longitude": -122.160713,
+        "latitude": 37.721806
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "BAYF",
+        "stop_name": "Bay Fair",
+        "longitude": -122.126431,
+        "latitude": 37.696938
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "CAST",
+        "stop_name": "Castro Valley",
+        "longitude": -122.075615,
+        "latitude": 37.690776
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "WDUB",
+        "stop_name": "West Dublin \/ Pleasanton",
+        "longitude": -121.928301,
+        "latitude": 37.69976
+    },
+    {
+        "line_id": "Blue-N",
+        "stop_id": "DUBL",
+        "stop_name": "Dublin \/ Pleasanton",
+        "longitude": -121.899242,
+        "latitude": 37.701692
+    },
+    {
+        "line_id": "Beige-S",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Beige-S",
+        "stop_id": "OAKL",
+        "stop_name": "Oakland International Airport Station",
+        "longitude": -122.212237,
+        "latitude": 37.713256
+    },
+    {
+        "line_id": "Beige-N",
+        "stop_id": "OAKL",
+        "stop_name": "Oakland International Airport Station",
+        "longitude": -122.212237,
+        "latitude": 37.713256
+    },
+    {
+        "line_id": "Beige-N",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "DALY",
+        "stop_name": "Daly City",
+        "longitude": -122.468994,
+        "latitude": 37.706304
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "BALB",
+        "stop_name": "Balboa Park",
+        "longitude": -122.44751,
+        "latitude": 37.721758
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "GLEN",
+        "stop_name": "Glen Park",
+        "longitude": -122.433557,
+        "latitude": 37.733269
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "24TH",
+        "stop_name": "24th Street \/ Mission",
+        "longitude": -122.418518,
+        "latitude": 37.752422
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "16TH",
+        "stop_name": "16th Street \/ Mission",
+        "longitude": -122.419755,
+        "latitude": 37.765176
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "CIVC",
+        "stop_name": "Civic Center \/ UN Plaza",
+        "longitude": -122.413879,
+        "latitude": 37.77945
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "POWL",
+        "stop_name": "Powell Street",
+        "longitude": -122.407387,
+        "latitude": 37.784645
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "MONT",
+        "stop_name": "Montgomery Street",
+        "longitude": -122.401642,
+        "latitude": 37.789213
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "EMBR",
+        "stop_name": "Embarcadero",
+        "longitude": -122.39708,
+        "latitude": 37.792789
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "WOAK",
+        "stop_name": "West Oakland",
+        "longitude": -122.295144,
+        "latitude": 37.804923
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "LAKE",
+        "stop_name": "Lake Merritt",
+        "longitude": -122.265232,
+        "latitude": 37.797357
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "FTVL",
+        "stop_name": "Fruitvale",
+        "longitude": -122.224067,
+        "latitude": 37.774873
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "COLS",
+        "stop_name": "Coliseum",
+        "longitude": -122.196698,
+        "latitude": 37.753604
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "SANL",
+        "stop_name": "San Leandro",
+        "longitude": -122.160713,
+        "latitude": 37.721806
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "BAYF",
+        "stop_name": "Bay Fair",
+        "longitude": -122.126431,
+        "latitude": 37.696938
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "HAYW",
+        "stop_name": "Hayward",
+        "longitude": -122.086941,
+        "latitude": 37.669731
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "SHAY",
+        "stop_name": "South Hayward",
+        "longitude": -122.057158,
+        "latitude": 37.634363
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "UCTY",
+        "stop_name": "Union City",
+        "longitude": -122.01723,
+        "latitude": 37.590765
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "FRMT",
+        "stop_name": "Fremont",
+        "longitude": -121.976605,
+        "latitude": 37.557513
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "WARM",
+        "stop_name": "Warm Springs \/ South Fremont",
+        "longitude": -121.939358,
+        "latitude": 37.502307
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "MLPT",
+        "stop_name": "Milpitas",
+        "longitude": -121.890803,
+        "latitude": 37.409836
+    },
+    {
+        "line_id": "Green-N",
+        "stop_id": "BERY",
+        "stop_name": "Berryessa \/ North San Jose",
+        "longitude": -121.874661,
+        "latitude": 37.368495
+    }
+]

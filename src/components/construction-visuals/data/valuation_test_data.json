@@ -1,0 +1,52 @@
+{
+    "info": [
+        {
+            "Date Issued": "1/27/2020",
+            "Building Type": "Mixed",
+            "Construction Type": "New",
+            "Address": "2510 CHANNING Way, BERKELEY, CA 94704",
+            "Valuation": 10000000,
+            "Coordinates": [
+                37.8669281111,
+                -122.2582418889
+            ]
+        },
+        {
+            "Date Issued": "1/8/2020",
+            "Building Type": "Residential",
+            "Construction Type": "Addition/Alteration",
+            "Address": "1605 1\/2 JULIA St, BERKELEY, CA 94703",
+            "Valuation": 71800,
+            "Coordinates": [
+                37.8544669,
+                -122.2770221
+            ]
+        },
+        {
+            "Date Issued": "1/13/2020",
+            "Building Type": "Residential",
+            "Construction Type": "Addition/Alteration",
+            "Address": "1312 JOSEPHINE St, BERKELEY, CA 94703",
+            "Valuation": 100,
+            "Coordinates": [
+                37.8827446305,
+                -122.2755221373
+            ]
+        },
+        {
+            "Date Issued": "1/28/2020",
+            "Building Type": "Residential",
+            "Construction Type": "New",
+            "Address": "1327 CARLOTTA Ave, BERKELEY, CA 94703",
+            "Valuation": 800000,
+            "Coordinates": [
+                37.8817635073,
+                -122.2795114931
+            ]
+        }
+    ],
+    "minLat": 37.84445634720881,
+    "minLong": -122.32941938047068,
+    "maxLat": 37.91003694694509,
+    "maxLong": -122.23723722504047
+}

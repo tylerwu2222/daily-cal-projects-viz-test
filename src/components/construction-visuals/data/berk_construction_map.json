@@ -1,0 +1,153 @@
+{
+    "info": [
+        {
+            "Name": "Bioswale at Rose and Hopkins",
+            "Status": "Construction",
+            "Type": "Storm",
+            "Location": "At Rose and Hopkins intersection",
+            "Funding Source": "['Measure M']",
+            "Project Team": "['Public Works Engineering Division']",
+            "Project Team Info": "[['Public Works Engineering Division', 'Public Works', '(510) 981-6300']]",
+            "center": [
+                37.87652069155654,
+                -122.29158985470886
+            ]
+        },
+        {
+            "Name": "Cazadero Dining Hall & ADA Improvements",
+            "Status": "Construction",
+            "Type": "Facility",
+            "Location": "5385 Cazadero Hwy, Cazadero, CA",
+            "Funding Source": "['Measure T1']",
+            "Project Team": "['Molly Sokhom']",
+            "Project Team Info": "[['Molly Sokhom', 'Assistant Management Analyst', 'Parks, Recreation & Waterfront']]",
+            "center": [
+                38.5240317018628,
+                -123.08769647345999
+            ]
+        },
+        {
+            "Name": "King School Park Play Area Renovation Project",
+            "Status": "Construction",
+            "Type": "Park",
+            "Location": "1700 Hopkins Street, Berkeley, CA 94707",
+            "Funding Source": "['Measure F']",
+            "Project Team": "['Isaac Carnegie', 'Evelyn Chan']",
+            "Project Team Info": "[['Isaac Carnegie', 'Associate Civil Engineer', 'Parks, Recreation & Waterfront'], ['Evelyn Chan', 'Supervising Civil Engineer', 'Parks, Recreation & Waterfront']]",
+            "center": [
+                37.88276842764381,
+                -122.27867850660195
+            ]
+        },
+        {
+            "Name": "Milvia Permeable Pavers",
+            "Status": "Construction",
+            "Type": "Storm",
+            "Location": "At the intersection of Eunice and Milvia, Milvia and Hopkins",
+            "Funding Source": "['Measure M']",
+            "Project Team": "['Public Works Engineering Division']",
+            "Project Team Info": "[['Public Works Engineering Division', 'Public Works', '(510) 981-6300']]",
+            "center": [
+                37.886157044869286,
+                -122.27316021854382
+            ]
+        },
+        {
+            "Name": "Ohlone Greenway Safety Improvements Project",
+            "Status": "Construction",
+            "Type": "Transportation",
+            "Location": "This project will make improvements to the Ohlone Greenway multi-use pathway, from Virginia Gardens to the south to Santa Fe Avenue to the north. It includes the following intersections: Virginia Gardens, Cedar Street, Rose Street, Hopkins Street, Peralta Avenue, Gilman Street, and Santa Fe Avenue.",
+            "Funding Source": "['Vehicle Registration Fee (VRF)', 'Measure B & BB']",
+            "Project Team": "['Ken Jung']",
+            "Project Team Info": "[['Ken Jung', 'Project Manager', 'Public Works']]",
+            "center": [
+                37.87567418270633,
+                -122.2868287942862
+            ]
+        },
+        {
+            "Name": "Ohlone Park Restroom and Lighting Improvements",
+            "Status": "Construction",
+            "Type": "Park",
+            "Location": "1500-1900 Blocks of Hearst Avenue, between Sacramento Street and Milvia Street",
+            "Funding Source": "['Measure T1']",
+            "Project Team": "['Stacey Rutherford']",
+            "Project Team Info": "[['Stacey Rutherford', 'Assistant Civil Engineer', 'Parks, Recreation & Waterfront']]",
+            "center": [
+                37.872858442656735,
+                -122.27675454660864
+            ],
+            "color": "#fab081",
+            "size": 8
+        },
+        {
+            "Name": "Presentation Park Rain Garden",
+            "Status": "Construction",
+            "Type": "Park",
+            "Location": "Allston Way at Strawberry Creek",
+            "Funding Source": "['Measure M']",
+            "Project Team": "['Public Works Engineering Division']",
+            "Project Team Info": "[['Public Works Engineering Division', 'Public Works', '(510) 981-6300']]",
+            "center": [
+                37.867037468307366,
+                -122.28638865735304
+            ]
+        },
+        {
+            "Name": "Sanitary Sewer Rehabilitation: Parnassus and others",
+            "Status": "Construction",
+            "Type": "Sewer",
+            "Location": "Various locations throughout the City of Berkeley including Parnassus Road, East Parnassus Court, West Parnassus Court, Del Mar Avenue, Summit Road, La Loma Avenue, Tamalpais Road and others.",
+            "Funding Source": "['Sanitary Sewer Fund']",
+            "Project Team": "['Andes Construction, Inc.', 'Harold Suan', 'Stephanie Angcla']",
+            "Project Team Info": "[['Andes Construction, Inc.', 'Contractor', '(510) 536-7832'], ['Harold Suan', 'Engineering Inspector', 'Public Works'], ['Stephanie Angcla', 'Project Manager', 'Public Works']]",
+            "center": [
+                37.88267345751419,
+                -122.25402253846462
+            ]
+        },
+        {
+            "Name": "Sanitary Sewer Rehabilitation: Shattuck Avenue",
+            "Status": "Construction",
+            "Type": "Sewer",
+            "Location": "Shattuck Avenue from Derby Street to Allston Way and Shattuck Avenue from University Avenue to Vine Street.",
+            "Funding Source": "['Sanitary Sewer Fund']",
+            "Project Team": "['Cratus, Inc.', 'Adrian Merry', 'Kevin Emigh']",
+            "Project Team Info": "[['Cratus, Inc.', 'Contractor', '(800) 850-1874'], ['Adrian Merry', 'Engineering Inspector', 'Public Works'], ['Kevin Emigh', 'Project Manager', 'Public Works']]",
+            "center": [
+                37.8708983078894,
+                -122.26824820627265
+            ]
+        },
+        {
+            "Name": "Solar Battery Project",
+            "Status": "Construction",
+            "Type": "Facility",
+            "Location": "1901 Hearst Ave",
+            "Funding Source": "['Measure T1']",
+            "Project Team": "['Elmar Kapfer ', 'Uriel Gonzalez']",
+            "Project Team Info": "[['Elmar Kapfer ', 'Supervising Civil Engineer ', 'Public Works'], ['Uriel Gonzalez', 'Civil Engineer ', 'Public Works']]",
+            "center": [
+                37.87381353353288,
+                -122.27287903351117
+            ]
+        },
+        {
+            "Name": "Waterfront Specific Plan",
+            "Status": "Construction",
+            "Type": "Other Infrastructure",
+            "Location": "Berkeley Waterfront (Public Tidelands Area): includes all City property west of Eastshore State Park (East Bay Regional Park District property)",
+            "Funding Source": "['Capital Improvement Fund']",
+            "Project Team": "['Christina Erickson', 'Roger Miller', 'Ali Endress']",
+            "Project Team Info": "[['Christina Erickson', 'Deputy Director', 'Parks, Recreation & Waterfront'], ['Roger Miller', 'Senior Management Analyst', 'Parks, Recreation & Waterfront'], ['Ali Endress', 'Waterfront Manager', 'Parks, Recreation & Waterfront']]",
+            "center": [
+                37.867862806714875,
+                -122.312768513696
+            ]
+        }
+    ],
+    "minLat": 37.84445634720881,
+    "minLong": -122.32941938047068,
+    "maxLat": 37.91003694694509,
+    "maxLong": -122.23723722504047
+}

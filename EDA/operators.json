@@ -1,0 +1,207 @@
+[
+  {
+    "Id": "5E",
+    "Name": "511 Emergency",
+    "ShortName": "511 Emergency"
+  },
+  {
+    "Id": "5F",
+    "Name": "511 Flap Sign",
+    "ShortName": "511 Flap Sign"
+  },
+  {
+    "Id": "5O",
+    "Name": "511 Operations",
+    "ShortName": "511 Emergency"
+  },
+  {
+    "Id": "5S",
+    "Name": "511 Staff",
+    "ShortName": "511 Staff"
+  },
+  {
+    "Id": "AC",
+    "Name": "AC TRANSIT",
+    "ShortName": "AC Transit"
+  },
+  {
+    "Id": "CE",
+    "Name": "Altamont Corridor Express",
+    "ShortName": "ACE"
+  },
+  {
+    "Id": "AF",
+    "Name": "Angel Island Tiburon Ferry",
+    "ShortName": "Angel Island Ferry"
+  },
+  {
+    "Id": "BA",
+    "Name": "Bay Area Rapid Transit",
+    "ShortName": "BART"
+  },
+  {
+    "Id": "CT",
+    "Name": "Caltrain",
+    "ShortName": "Caltrain"
+  },
+  {
+    "Id": "AM",
+    "Name": "Capitol Corridor Joint Powers Authority",
+    "ShortName": "Capitol Corridor"
+  },
+  {
+    "Id": "SS",
+    "Name": "City of South San Francisco",
+    "ShortName": "South City Shuttle"
+  },
+  {
+    "Id": "CM",
+    "Name": "Commute.org Shuttles",
+    "ShortName": "Commute.org"
+  },
+  {
+    "Id": "CC",
+    "Name": "County Connection",
+    "ShortName": "County Connection"
+  },
+  {
+    "Id": "DE",
+    "Name": "Dumbarton Express Consortium",
+    "ShortName": "Dumbarton"
+  },
+  {
+    "Id": "EM",
+    "Name": "Emery Go-Round",
+    "ShortName": "Emery Go-Round"
+  },
+  {
+    "Id": "FS",
+    "Name": "FAST",
+    "ShortName": "FAST"
+  },
+  {
+    "Id": "GF",
+    "Name": "Golden Gate Ferry",
+    "ShortName": "GG Ferry"
+  },
+  {
+    "Id": "GG",
+    "Name": "Golden Gate Transit",
+    "ShortName": "GG Transit"
+  },
+  {
+    "Id": "WH",
+    "Name": "Livermore Amador Valley Transit Authority",
+    "ShortName": "Wheels"
+  },
+  {
+    "Id": "MA",
+    "Name": "Marin Transit",
+    "ShortName": "Marin Transit"
+  },
+  {
+    "Id": "MB",
+    "Name": "Mission Bay TMA",
+    "ShortName": null
+  },
+  {
+    "Id": "MV",
+    "Name": "MVgo",
+    "ShortName": null
+  },
+  {
+    "Id": "PE",
+    "Name": "PETALUMA",
+    "ShortName": "Petaluma Transit"
+  },
+  {
+    "Id": "RG",
+    "Name": "Regional GTFS",
+    "ShortName": null
+  },
+  {
+    "Id": "RV",
+    "Name": "Rio Vista Delta Breeze",
+    "ShortName": "Delta Breeze"
+  },
+  {
+    "Id": "SM",
+    "Name": "SamTrans",
+    "ShortName": "SamTrans"
+  },
+  {
+    "Id": "SB",
+    "Name": "San Francisco Bay Ferry",
+    "ShortName": "SF Bay Ferry"
+  },
+  {
+    "Id": "SI",
+    "Name": "San Francisco International Airport",
+    "ShortName": null
+  },
+  {
+    "Id": "SF",
+    "Name": "San Francisco Municipal Transportation Agency",
+    "ShortName": "SF Muni"
+  },
+  {
+    "Id": "SQ",
+    "Name": "San Joaquins",
+    "ShortName": null
+  },
+  {
+    "Id": "SR",
+    "Name": "SANTAROSA",
+    "ShortName": "SR CityBus"
+  },
+  {
+    "Id": "ST",
+    "Name": "SolTrans",
+    "ShortName": "Soltrans"
+  },
+  {
+    "Id": "SO",
+    "Name": "Sonoma County Transit",
+    "ShortName": "Sonoma County"
+  },
+  {
+    "Id": "SA",
+    "Name": "Sonoma Marin Area Rail Transit",
+    "ShortName": "SMART"
+  },
+  {
+    "Id": "TF",
+    "Name": "Treasure Island Ferry",
+    "ShortName": null
+  },
+  {
+    "Id": "3D",
+    "Name": "Tri Delta Transit",
+    "ShortName": "Tri Delta Transit"
+  },
+  {
+    "Id": "UC",
+    "Name": "Union City Transit",
+    "ShortName": "Union City"
+  },
+  {
+    "Id": "VC",
+    "Name": "Vacaville City Coach",
+    "ShortName": "Vacaville City Coach"
+  },
+  {
+    "Id": "VN",
+    "Name": "VINE Transit",
+    "ShortName": "Napa VINE"
+  },
+  {
+    "Id": "SC",
+    "Name": "VTA",
+    "ShortName": "VTA"
+  },
+  {
+    "Id": "WC",
+    "Name": "WestCat (Western Contra Costa)",
+    "ShortName": "WestCAT"
+  }
+]

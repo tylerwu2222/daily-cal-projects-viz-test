@@ -1,0 +1,938 @@
+{
+  "directions": [
+    {
+      "DirectionId": "S",
+      "Name": "South"
+    },
+    {
+      "DirectionId": "N",
+      "Name": "North"
+    }
+  ],
+  "journeyPatterns": [
+    {
+      "serviceJourneyPatternRef": "221182",
+      "LineRef": "51B",
+      "TripCount": 117,
+      "FromDate": "2023-12-03T00:00:00-08:00",
+      "ToDate": "2024-03-02T23:59:00-08:00",
+      "Name": "College Av & Rockridge BART",
+      "DirectionRef": "S",
+      "DestinationDisplayView": {
+        "FontText": "Rockridge BART"
+      },
+      "PointsInSequence": {
+        "StopPointInJourneyPattern": [
+          {
+            "StopPointInJourneyPatternId": "15520759",
+            "Order": "2",
+            "ScheduledStopPointRef": "54477",
+            "Name": "University Av & 4th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520760",
+            "Order": "3",
+            "ScheduledStopPointRef": "55548",
+            "Name": "University Av & 6th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520761",
+            "Order": "4",
+            "ScheduledStopPointRef": "55855",
+            "Name": "University Av & 9th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520763",
+            "Order": "6",
+            "ScheduledStopPointRef": "51617",
+            "Name": "University Av & Bonar St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520764",
+            "Order": "7",
+            "ScheduledStopPointRef": "59900",
+            "Name": "University Av & Acton St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520765",
+            "Order": "8",
+            "ScheduledStopPointRef": "56667",
+            "Name": "University Av & Sacramento St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520766",
+            "Order": "9",
+            "ScheduledStopPointRef": "51574",
+            "Name": "University Av & California St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520767",
+            "Order": "10",
+            "ScheduledStopPointRef": "51900",
+            "Name": "University Av & Grant St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520768",
+            "Order": "11",
+            "ScheduledStopPointRef": "55988",
+            "Name": "University Av & Martin Luther King Jr Way",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520769",
+            "Order": "12",
+            "ScheduledStopPointRef": "54466",
+            "Name": "University Av & Shattuck Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520770",
+            "Order": "13",
+            "ScheduledStopPointRef": "55555",
+            "Name": "Shattuck Av & Allston Way",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520771",
+            "Order": "14",
+            "ScheduledStopPointRef": "55999",
+            "Name": "Shattuck Av & Kittredge St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520772",
+            "Order": "15",
+            "ScheduledStopPointRef": "51835",
+            "Name": "Durant Av & Shattuck Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520773",
+            "Order": "16",
+            "ScheduledStopPointRef": "51584",
+            "Name": "Durant Av & Ellsworth St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520774",
+            "Order": "17",
+            "ScheduledStopPointRef": "51606",
+            "Name": "Durant Av & Dana St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520776",
+            "Order": "19",
+            "ScheduledStopPointRef": "52333",
+            "Name": "Durant Av & College Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520777",
+            "Order": "20",
+            "ScheduledStopPointRef": "52244",
+            "Name": "College Av & Haste St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520778",
+            "Order": "21",
+            "ScheduledStopPointRef": "51582",
+            "Name": "College Av & Parker St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520779",
+            "Order": "22",
+            "ScheduledStopPointRef": "50600",
+            "Name": "College Av & Derby St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520780",
+            "Order": "23",
+            "ScheduledStopPointRef": "57655",
+            "Name": "College Av & Russell St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520781",
+            "Order": "24",
+            "ScheduledStopPointRef": "55991",
+            "Name": "College Av & Ashby Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520782",
+            "Order": "25",
+            "ScheduledStopPointRef": "56585",
+            "Name": "College Av & Woolsey St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520783",
+            "Order": "26",
+            "ScheduledStopPointRef": "51508",
+            "Name": "College Av & Alcatraz Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520784",
+            "Order": "27",
+            "ScheduledStopPointRef": "57877",
+            "Name": "College Av & Claremont Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520785",
+            "Order": "28",
+            "ScheduledStopPointRef": "56288",
+            "Name": "College Av & Chabot Rd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520786",
+            "Order": "29",
+            "ScheduledStopPointRef": "56656",
+            "Name": "College Av & Oak Grove Av (Opp. Claremont Mid.Sch)",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520787",
+            "Order": "30",
+            "ScheduledStopPointRef": "53018",
+            "Name": "Miles Av & College Av",
+            "DestinationDisplayView": ""
+          }
+        ],
+        "TimingPointInJourneyPattern": [
+          {
+            "TimingPointInJourneyPatternId": "15520758",
+            "Order": "1",
+            "ScheduledStopPointRef": "58883",
+            "Name": "University Av & 3rd St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520762",
+            "Order": "5",
+            "ScheduledStopPointRef": "55996",
+            "Name": "University Av & San Pablo Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520775",
+            "Order": "18",
+            "ScheduledStopPointRef": "51579",
+            "Name": "Durant Av & Telegraph Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520788",
+            "Order": "31",
+            "ScheduledStopPointRef": "51188",
+            "Name": "College Av & Rockridge BART",
+            "DestinationDisplayView": ""
+          }
+        ]
+      },
+      "LinksInSequence": {
+        "ServiceLinkInJourneyPattern": ""
+      }
+    },
+    {
+      "serviceJourneyPatternRef": "221183",
+      "LineRef": "51B",
+      "TripCount": 117,
+      "FromDate": "2023-12-03T00:00:00-08:00",
+      "ToDate": "2024-03-02T23:59:00-08:00",
+      "Name": "University Av & 3rd St",
+      "DirectionRef": "N",
+      "DestinationDisplayView": {
+        "FontText": "Berkeley Amtrak"
+      },
+      "PointsInSequence": {
+        "StopPointInJourneyPattern": [
+          {
+            "StopPointInJourneyPatternId": "15520790",
+            "Order": "2",
+            "ScheduledStopPointRef": "50955",
+            "Name": "College Av & Chabot Rd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520791",
+            "Order": "3",
+            "ScheduledStopPointRef": "51506",
+            "Name": "College Av & Claremont Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520792",
+            "Order": "4",
+            "ScheduledStopPointRef": "51507",
+            "Name": "College Av & Alcatraz Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520793",
+            "Order": "5",
+            "ScheduledStopPointRef": "52323",
+            "Name": "College Av & Woolsey St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520794",
+            "Order": "6",
+            "ScheduledStopPointRef": "55955",
+            "Name": "College Av & Ashby Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520795",
+            "Order": "7",
+            "ScheduledStopPointRef": "51199",
+            "Name": "College Av & Russell St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520796",
+            "Order": "8",
+            "ScheduledStopPointRef": "59977",
+            "Name": "College Av & Derby St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520797",
+            "Order": "9",
+            "ScheduledStopPointRef": "57774",
+            "Name": "College Av & Parker St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520798",
+            "Order": "10",
+            "ScheduledStopPointRef": "52223",
+            "Name": "College Av & Haste St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520799",
+            "Order": "11",
+            "ScheduledStopPointRef": "59555",
+            "Name": "Bancroft Way & College Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520800",
+            "Order": "12",
+            "ScheduledStopPointRef": "54455",
+            "Name": "Bancroft Way & Telegraph Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520801",
+            "Order": "13",
+            "ScheduledStopPointRef": "55593",
+            "Name": "Bancroft Way & Dana St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520802",
+            "Order": "14",
+            "ScheduledStopPointRef": "54655",
+            "Name": "Bancroft Way & Ellsworth St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520803",
+            "Order": "15",
+            "ScheduledStopPointRef": "55559",
+            "Name": "Shattuck Sq & Center St (Downtown Berkeley BART)",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520804",
+            "Order": "16",
+            "ScheduledStopPointRef": "50444",
+            "Name": "University Av & Shattuck Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520805",
+            "Order": "17",
+            "ScheduledStopPointRef": "57557",
+            "Name": "University Av & Martin Luther King Jr Way",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520806",
+            "Order": "18",
+            "ScheduledStopPointRef": "53136",
+            "Name": "University Av & Grant St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520807",
+            "Order": "19",
+            "ScheduledStopPointRef": "51583",
+            "Name": "University Av & California St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520808",
+            "Order": "20",
+            "ScheduledStopPointRef": "55722",
+            "Name": "University Av & Sacramento St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520809",
+            "Order": "21",
+            "ScheduledStopPointRef": "51573",
+            "Name": "University Av & Acton St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520810",
+            "Order": "22",
+            "ScheduledStopPointRef": "57335",
+            "Name": "University Av & Bonar St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520812",
+            "Order": "24",
+            "ScheduledStopPointRef": "59004",
+            "Name": "University Av & 9th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520813",
+            "Order": "25",
+            "ScheduledStopPointRef": "51105",
+            "Name": "University Av & 6th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520814",
+            "Order": "26",
+            "ScheduledStopPointRef": "52355",
+            "Name": "University Av & 4th St",
+            "DestinationDisplayView": ""
+          }
+        ],
+        "TimingPointInJourneyPattern": [
+          {
+            "TimingPointInJourneyPatternId": "15520789",
+            "Order": "1",
+            "ScheduledStopPointRef": "51188",
+            "Name": "College Av & Rockridge BART",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520811",
+            "Order": "23",
+            "ScheduledStopPointRef": "52566",
+            "Name": "University Av & San Pablo Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520815",
+            "Order": "27",
+            "ScheduledStopPointRef": "58883",
+            "Name": "University Av & 3rd St",
+            "DestinationDisplayView": ""
+          }
+        ]
+      },
+      "LinksInSequence": {
+        "ServiceLinkInJourneyPattern": ""
+      }
+    },
+    {
+      "serviceJourneyPatternRef": "217744",
+      "LineRef": "51B",
+      "TripCount": 107,
+      "FromDate": "2023-12-03T00:00:00-08:00",
+      "ToDate": "2024-03-02T23:59:00-08:00",
+      "Name": "College Av & Rockridge BART",
+      "DirectionRef": "S",
+      "DestinationDisplayView": {
+        "FontText": "Rockridge BART"
+      },
+      "PointsInSequence": {
+        "StopPointInJourneyPattern": [
+          {
+            "StopPointInJourneyPatternId": "15520697",
+            "Order": "2",
+            "ScheduledStopPointRef": "52595",
+            "Name": "University Av & Bait Shop",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520698",
+            "Order": "3",
+            "ScheduledStopPointRef": "52997",
+            "Name": "University Av & Marina Blvd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520699",
+            "Order": "4",
+            "ScheduledStopPointRef": "54395",
+            "Name": "University Av & W Frontage Rd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520700",
+            "Order": "5",
+            "ScheduledStopPointRef": "55548",
+            "Name": "University Av & 6th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520701",
+            "Order": "6",
+            "ScheduledStopPointRef": "55855",
+            "Name": "University Av & 9th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520703",
+            "Order": "8",
+            "ScheduledStopPointRef": "51617",
+            "Name": "University Av & Bonar St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520704",
+            "Order": "9",
+            "ScheduledStopPointRef": "59900",
+            "Name": "University Av & Acton St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520705",
+            "Order": "10",
+            "ScheduledStopPointRef": "56667",
+            "Name": "University Av & Sacramento St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520706",
+            "Order": "11",
+            "ScheduledStopPointRef": "51574",
+            "Name": "University Av & California St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520707",
+            "Order": "12",
+            "ScheduledStopPointRef": "51900",
+            "Name": "University Av & Grant St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520708",
+            "Order": "13",
+            "ScheduledStopPointRef": "55988",
+            "Name": "University Av & Martin Luther King Jr Way",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520709",
+            "Order": "14",
+            "ScheduledStopPointRef": "54466",
+            "Name": "University Av & Shattuck Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520710",
+            "Order": "15",
+            "ScheduledStopPointRef": "55555",
+            "Name": "Shattuck Av & Allston Way",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520711",
+            "Order": "16",
+            "ScheduledStopPointRef": "55999",
+            "Name": "Shattuck Av & Kittredge St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520712",
+            "Order": "17",
+            "ScheduledStopPointRef": "51835",
+            "Name": "Durant Av & Shattuck Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520713",
+            "Order": "18",
+            "ScheduledStopPointRef": "51584",
+            "Name": "Durant Av & Ellsworth St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520714",
+            "Order": "19",
+            "ScheduledStopPointRef": "51606",
+            "Name": "Durant Av & Dana St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520716",
+            "Order": "21",
+            "ScheduledStopPointRef": "52333",
+            "Name": "Durant Av & College Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520717",
+            "Order": "22",
+            "ScheduledStopPointRef": "52244",
+            "Name": "College Av & Haste St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520718",
+            "Order": "23",
+            "ScheduledStopPointRef": "51582",
+            "Name": "College Av & Parker St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520719",
+            "Order": "24",
+            "ScheduledStopPointRef": "50600",
+            "Name": "College Av & Derby St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520720",
+            "Order": "25",
+            "ScheduledStopPointRef": "57655",
+            "Name": "College Av & Russell St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520721",
+            "Order": "26",
+            "ScheduledStopPointRef": "55991",
+            "Name": "College Av & Ashby Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520722",
+            "Order": "27",
+            "ScheduledStopPointRef": "56585",
+            "Name": "College Av & Woolsey St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520723",
+            "Order": "28",
+            "ScheduledStopPointRef": "51508",
+            "Name": "College Av & Alcatraz Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520724",
+            "Order": "29",
+            "ScheduledStopPointRef": "57877",
+            "Name": "College Av & Claremont Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520725",
+            "Order": "30",
+            "ScheduledStopPointRef": "56288",
+            "Name": "College Av & Chabot Rd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520726",
+            "Order": "31",
+            "ScheduledStopPointRef": "56656",
+            "Name": "College Av & Oak Grove Av (Opp. Claremont Mid.Sch)",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520727",
+            "Order": "32",
+            "ScheduledStopPointRef": "53018",
+            "Name": "Miles Av & College Av",
+            "DestinationDisplayView": ""
+          }
+        ],
+        "TimingPointInJourneyPattern": [
+          {
+            "TimingPointInJourneyPatternId": "15520696",
+            "Order": "1",
+            "ScheduledStopPointRef": "58455",
+            "Name": "Seawall Dr & University Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520702",
+            "Order": "7",
+            "ScheduledStopPointRef": "55996",
+            "Name": "University Av & San Pablo Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520715",
+            "Order": "20",
+            "ScheduledStopPointRef": "51579",
+            "Name": "Durant Av & Telegraph Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520728",
+            "Order": "33",
+            "ScheduledStopPointRef": "51188",
+            "Name": "College Av & Rockridge BART",
+            "DestinationDisplayView": ""
+          }
+        ]
+      },
+      "LinksInSequence": {
+        "ServiceLinkInJourneyPattern": ""
+      }
+    },
+    {
+      "serviceJourneyPatternRef": "218332",
+      "LineRef": "51B",
+      "TripCount": 109,
+      "FromDate": "2023-12-03T00:00:00-08:00",
+      "ToDate": "2024-03-02T23:59:00-08:00",
+      "Name": "Seawall Dr & University Av",
+      "DirectionRef": "N",
+      "DestinationDisplayView": {
+        "FontText": "Berkeley Marina"
+      },
+      "PointsInSequence": {
+        "StopPointInJourneyPattern": [
+          {
+            "StopPointInJourneyPatternId": "15520730",
+            "Order": "2",
+            "ScheduledStopPointRef": "50955",
+            "Name": "College Av & Chabot Rd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520731",
+            "Order": "3",
+            "ScheduledStopPointRef": "51506",
+            "Name": "College Av & Claremont Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520732",
+            "Order": "4",
+            "ScheduledStopPointRef": "51507",
+            "Name": "College Av & Alcatraz Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520733",
+            "Order": "5",
+            "ScheduledStopPointRef": "52323",
+            "Name": "College Av & Woolsey St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520734",
+            "Order": "6",
+            "ScheduledStopPointRef": "55955",
+            "Name": "College Av & Ashby Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520735",
+            "Order": "7",
+            "ScheduledStopPointRef": "51199",
+            "Name": "College Av & Russell St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520736",
+            "Order": "8",
+            "ScheduledStopPointRef": "59977",
+            "Name": "College Av & Derby St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520737",
+            "Order": "9",
+            "ScheduledStopPointRef": "57774",
+            "Name": "College Av & Parker St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520738",
+            "Order": "10",
+            "ScheduledStopPointRef": "52223",
+            "Name": "College Av & Haste St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520739",
+            "Order": "11",
+            "ScheduledStopPointRef": "59555",
+            "Name": "Bancroft Way & College Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520740",
+            "Order": "12",
+            "ScheduledStopPointRef": "54455",
+            "Name": "Bancroft Way & Telegraph Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520741",
+            "Order": "13",
+            "ScheduledStopPointRef": "55593",
+            "Name": "Bancroft Way & Dana St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520742",
+            "Order": "14",
+            "ScheduledStopPointRef": "54655",
+            "Name": "Bancroft Way & Ellsworth St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520743",
+            "Order": "15",
+            "ScheduledStopPointRef": "55559",
+            "Name": "Shattuck Sq & Center St (Downtown Berkeley BART)",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520744",
+            "Order": "16",
+            "ScheduledStopPointRef": "50444",
+            "Name": "University Av & Shattuck Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520745",
+            "Order": "17",
+            "ScheduledStopPointRef": "57557",
+            "Name": "University Av & Martin Luther King Jr Way",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520746",
+            "Order": "18",
+            "ScheduledStopPointRef": "53136",
+            "Name": "University Av & Grant St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520747",
+            "Order": "19",
+            "ScheduledStopPointRef": "51583",
+            "Name": "University Av & California St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520748",
+            "Order": "20",
+            "ScheduledStopPointRef": "55722",
+            "Name": "University Av & Sacramento St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520749",
+            "Order": "21",
+            "ScheduledStopPointRef": "51573",
+            "Name": "University Av & Acton St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520750",
+            "Order": "22",
+            "ScheduledStopPointRef": "57335",
+            "Name": "University Av & Bonar St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520752",
+            "Order": "24",
+            "ScheduledStopPointRef": "59004",
+            "Name": "University Av & 9th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520753",
+            "Order": "25",
+            "ScheduledStopPointRef": "51105",
+            "Name": "University Av & 6th St",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520754",
+            "Order": "26",
+            "ScheduledStopPointRef": "57827",
+            "Name": "University Av & W Frontage Rd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520755",
+            "Order": "27",
+            "ScheduledStopPointRef": "54393",
+            "Name": "University Av & Marina Blvd",
+            "DestinationDisplayView": ""
+          },
+          {
+            "StopPointInJourneyPatternId": "15520756",
+            "Order": "28",
+            "ScheduledStopPointRef": "58660",
+            "Name": "University Av & Bait Shop",
+            "DestinationDisplayView": ""
+          }
+        ],
+        "TimingPointInJourneyPattern": [
+          {
+            "TimingPointInJourneyPatternId": "15520729",
+            "Order": "1",
+            "ScheduledStopPointRef": "51188",
+            "Name": "College Av & Rockridge BART",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520751",
+            "Order": "23",
+            "ScheduledStopPointRef": "52566",
+            "Name": "University Av & San Pablo Av",
+            "DestinationDisplayView": ""
+          },
+          {
+            "TimingPointInJourneyPatternId": "15520757",
+            "Order": "29",
+            "ScheduledStopPointRef": "58455",
+            "Name": "Seawall Dr & University Av",
+            "DestinationDisplayView": ""
+          }
+        ]
+      },
+      "LinksInSequence": {
+        "ServiceLinkInJourneyPattern": ""
+      }
+    }
+  ]
+}

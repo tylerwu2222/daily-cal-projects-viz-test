@@ -1,0 +1,5344 @@
+[
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215687",
+        "LineRef": "Yellow-S",
+        "TripCount": 201,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "San Francisco International Airport",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "San Francisco International Airport"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701174",
+              "Order": "1",
+              "ScheduledStopPointRef": "ANTC",
+              "Name": "Antioch",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701175",
+              "Order": "2",
+              "ScheduledStopPointRef": "PCTR",
+              "Name": "Pittsburg Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701176",
+              "Order": "3",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701177",
+              "Order": "4",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701178",
+              "Order": "5",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701179",
+              "Order": "6",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701180",
+              "Order": "7",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701181",
+              "Order": "8",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701182",
+              "Order": "9",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701183",
+              "Order": "10",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701184",
+              "Order": "11",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701185",
+              "Order": "12",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701186",
+              "Order": "13",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701187",
+              "Order": "14",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701188",
+              "Order": "15",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701189",
+              "Order": "16",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701190",
+              "Order": "17",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701191",
+              "Order": "18",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701192",
+              "Order": "19",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701193",
+              "Order": "20",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701194",
+              "Order": "21",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701195",
+              "Order": "22",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701196",
+              "Order": "23",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701197",
+              "Order": "24",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701198",
+              "Order": "25",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701199",
+              "Order": "26",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701200",
+              "Order": "27",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215689",
+        "LineRef": "Yellow-S",
+        "TripCount": 44,
+        "FromDate": "2024-01-16T00:00:00-08:00",
+        "ToDate": "2024-08-09T23:59:00-08:00",
+        "Name": "San Francisco International Airport",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "San Francisco International Airport"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701201",
+              "Order": "1",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701202",
+              "Order": "2",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701203",
+              "Order": "3",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701204",
+              "Order": "4",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701205",
+              "Order": "5",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701206",
+              "Order": "6",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701207",
+              "Order": "7",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701208",
+              "Order": "8",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701209",
+              "Order": "9",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701210",
+              "Order": "10",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701211",
+              "Order": "11",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701212",
+              "Order": "12",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701213",
+              "Order": "13",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701214",
+              "Order": "14",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701215",
+              "Order": "15",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701216",
+              "Order": "16",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701217",
+              "Order": "17",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701218",
+              "Order": "18",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701219",
+              "Order": "19",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701220",
+              "Order": "20",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701221",
+              "Order": "21",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701222",
+              "Order": "22",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701223",
+              "Order": "23",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701224",
+              "Order": "24",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701225",
+              "Order": "25",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221718",
+        "LineRef": "Yellow-S",
+        "TripCount": 4,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Millbrae (Caltrain Transfer Platform)",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Millbrae (Caltrain Transfer Platform)"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701226",
+              "Order": "1",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701227",
+              "Order": "2",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215688",
+        "LineRef": "Yellow-S",
+        "TripCount": 10,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "San Francisco International Airport",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "San Francisco International Airport"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701228",
+              "Order": "1",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701229",
+              "Order": "2",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701230",
+              "Order": "3",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701231",
+              "Order": "4",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701232",
+              "Order": "5",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701233",
+              "Order": "6",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701234",
+              "Order": "7",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701235",
+              "Order": "8",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701236",
+              "Order": "9",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701237",
+              "Order": "10",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701238",
+              "Order": "11",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701239",
+              "Order": "12",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701240",
+              "Order": "13",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701241",
+              "Order": "14",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701242",
+              "Order": "15",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701243",
+              "Order": "16",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701244",
+              "Order": "17",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701245",
+              "Order": "18",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701246",
+              "Order": "19",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701247",
+              "Order": "20",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701248",
+              "Order": "21",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701249",
+              "Order": "22",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701250",
+              "Order": "23",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221716",
+        "LineRef": "Yellow-S",
+        "TripCount": 60,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Millbrae (Caltrain Transfer Platform)",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Millbrae"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701251",
+              "Order": "1",
+              "ScheduledStopPointRef": "ANTC",
+              "Name": "Antioch",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701252",
+              "Order": "2",
+              "ScheduledStopPointRef": "PCTR",
+              "Name": "Pittsburg Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701253",
+              "Order": "3",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701254",
+              "Order": "4",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701255",
+              "Order": "5",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701256",
+              "Order": "6",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701257",
+              "Order": "7",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701258",
+              "Order": "8",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701259",
+              "Order": "9",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701260",
+              "Order": "10",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701261",
+              "Order": "11",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701262",
+              "Order": "12",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701263",
+              "Order": "13",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701264",
+              "Order": "14",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701265",
+              "Order": "15",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701266",
+              "Order": "16",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701267",
+              "Order": "17",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701268",
+              "Order": "18",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701269",
+              "Order": "19",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701270",
+              "Order": "20",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701271",
+              "Order": "21",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701272",
+              "Order": "22",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701273",
+              "Order": "23",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701274",
+              "Order": "24",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701275",
+              "Order": "25",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701276",
+              "Order": "26",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701277",
+              "Order": "27",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701278",
+              "Order": "28",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "Millbrae (Caltrain Transfer Platform)"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701279",
+              "Order": "29",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": "Millbrae (Caltrain Transfer Platform)"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221717",
+        "LineRef": "Yellow-S",
+        "TripCount": 5,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Millbrae (Caltrain Transfer Platform)",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Millbrae (Caltrain Transfer Platform)"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701280",
+              "Order": "1",
+              "ScheduledStopPointRef": "ANTC",
+              "Name": "Antioch",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701281",
+              "Order": "2",
+              "ScheduledStopPointRef": "PCTR",
+              "Name": "Pittsburg Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701282",
+              "Order": "3",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701283",
+              "Order": "4",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701284",
+              "Order": "5",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701285",
+              "Order": "6",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701286",
+              "Order": "7",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701287",
+              "Order": "8",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701288",
+              "Order": "9",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701289",
+              "Order": "10",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701290",
+              "Order": "11",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701291",
+              "Order": "12",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701292",
+              "Order": "13",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701293",
+              "Order": "14",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701294",
+              "Order": "15",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701295",
+              "Order": "16",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701296",
+              "Order": "17",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701297",
+              "Order": "18",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701298",
+              "Order": "19",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701299",
+              "Order": "20",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701300",
+              "Order": "21",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701301",
+              "Order": "22",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701302",
+              "Order": "23",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701303",
+              "Order": "24",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701304",
+              "Order": "25",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701305",
+              "Order": "26",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701306",
+              "Order": "27",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221719",
+        "LineRef": "Yellow-S",
+        "TripCount": 6,
+        "FromDate": "2024-01-16T00:00:00-08:00",
+        "ToDate": "2024-08-09T23:59:00-08:00",
+        "Name": "Millbrae (Caltrain Transfer Platform)",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Millbrae"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701307",
+              "Order": "1",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701308",
+              "Order": "2",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701309",
+              "Order": "3",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701310",
+              "Order": "4",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701311",
+              "Order": "5",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701312",
+              "Order": "6",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701313",
+              "Order": "7",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701314",
+              "Order": "8",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701315",
+              "Order": "9",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701316",
+              "Order": "10",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701317",
+              "Order": "11",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701318",
+              "Order": "12",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701319",
+              "Order": "13",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701320",
+              "Order": "14",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701321",
+              "Order": "15",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701322",
+              "Order": "16",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701323",
+              "Order": "17",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701324",
+              "Order": "18",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701325",
+              "Order": "19",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701326",
+              "Order": "20",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701327",
+              "Order": "21",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701328",
+              "Order": "22",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701329",
+              "Order": "23",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701330",
+              "Order": "24",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701331",
+              "Order": "25",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701332",
+              "Order": "26",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "Millbrae (Caltrain Transfer Platform)"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701333",
+              "Order": "27",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": "Millbrae (Caltrain Transfer Platform)"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "N",
+        "Name": "North"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215700",
+        "LineRef": "Orange-N",
+        "TripCount": 3,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Richmond",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Richmond"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701488",
+              "Order": "1",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701489",
+              "Order": "2",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701490",
+              "Order": "3",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701491",
+              "Order": "4",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701492",
+              "Order": "5",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701493",
+              "Order": "6",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701494",
+              "Order": "7",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701495",
+              "Order": "8",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701496",
+              "Order": "9",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701497",
+              "Order": "10",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701498",
+              "Order": "11",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701499",
+              "Order": "12",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701500",
+              "Order": "13",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701501",
+              "Order": "14",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701502",
+              "Order": "15",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701503",
+              "Order": "16",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221724",
+        "LineRef": "Orange-N",
+        "TripCount": 2,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "El Cerrito Del Norte",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "OAK Airport/El Cerrito Del Norte"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701504",
+              "Order": "1",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701505",
+              "Order": "2",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701506",
+              "Order": "3",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701507",
+              "Order": "4",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701508",
+              "Order": "5",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701509",
+              "Order": "6",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701510",
+              "Order": "7",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701511",
+              "Order": "8",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701512",
+              "Order": "9",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701513",
+              "Order": "10",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701514",
+              "Order": "11",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701515",
+              "Order": "12",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701516",
+              "Order": "13",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701517",
+              "Order": "14",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701518",
+              "Order": "15",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221725",
+        "LineRef": "Orange-N",
+        "TripCount": 2,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "El Cerrito Del Norte",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "OAK Airport/El Cerrito Del Norte"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701519",
+              "Order": "1",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701520",
+              "Order": "2",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701521",
+              "Order": "3",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701522",
+              "Order": "4",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701523",
+              "Order": "5",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701524",
+              "Order": "6",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701525",
+              "Order": "7",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701526",
+              "Order": "8",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701527",
+              "Order": "9",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701528",
+              "Order": "10",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701529",
+              "Order": "11",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701530",
+              "Order": "12",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701531",
+              "Order": "13",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701532",
+              "Order": "14",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701533",
+              "Order": "15",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701534",
+              "Order": "16",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701535",
+              "Order": "17",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221723",
+        "LineRef": "Orange-N",
+        "TripCount": 104,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "El Cerrito Del Norte",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "OAK Airport/El Cerrito Del Norte"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701536",
+              "Order": "1",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701537",
+              "Order": "2",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701538",
+              "Order": "3",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701539",
+              "Order": "4",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701540",
+              "Order": "5",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701541",
+              "Order": "6",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701542",
+              "Order": "7",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701543",
+              "Order": "8",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701544",
+              "Order": "9",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701545",
+              "Order": "10",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701546",
+              "Order": "11",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701547",
+              "Order": "12",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701548",
+              "Order": "13",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701549",
+              "Order": "14",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701550",
+              "Order": "15",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701551",
+              "Order": "16",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701552",
+              "Order": "17",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701553",
+              "Order": "18",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701554",
+              "Order": "19",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701555",
+              "Order": "20",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215699",
+        "LineRef": "Orange-N",
+        "TripCount": 3,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Richmond",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Richmond"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701577",
+              "Order": "1",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701578",
+              "Order": "2",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701579",
+              "Order": "3",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701580",
+              "Order": "4",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701581",
+              "Order": "5",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701582",
+              "Order": "6",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701583",
+              "Order": "7",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701584",
+              "Order": "8",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701585",
+              "Order": "9",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701586",
+              "Order": "10",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701587",
+              "Order": "11",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701588",
+              "Order": "12",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701589",
+              "Order": "13",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701590",
+              "Order": "14",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701591",
+              "Order": "15",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701592",
+              "Order": "16",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701593",
+              "Order": "17",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701594",
+              "Order": "18",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215698",
+        "LineRef": "Orange-N",
+        "TripCount": 162,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Richmond",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Richmond"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701556",
+              "Order": "1",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701557",
+              "Order": "2",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701558",
+              "Order": "3",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701559",
+              "Order": "4",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701560",
+              "Order": "5",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701561",
+              "Order": "6",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701562",
+              "Order": "7",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701563",
+              "Order": "8",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701564",
+              "Order": "9",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701565",
+              "Order": "10",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701566",
+              "Order": "11",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701567",
+              "Order": "12",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701568",
+              "Order": "13",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701569",
+              "Order": "14",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701570",
+              "Order": "15",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701571",
+              "Order": "16",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701572",
+              "Order": "17",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701573",
+              "Order": "18",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701574",
+              "Order": "19",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701575",
+              "Order": "20",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701576",
+              "Order": "21",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215702",
+        "LineRef": "Orange-S",
+        "TripCount": 168,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Berryessa / North San Jose",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Berryessa/North San Jose"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701595",
+              "Order": "1",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701596",
+              "Order": "2",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701597",
+              "Order": "3",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701598",
+              "Order": "4",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701599",
+              "Order": "5",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701600",
+              "Order": "6",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701601",
+              "Order": "7",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701602",
+              "Order": "8",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701603",
+              "Order": "9",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701604",
+              "Order": "10",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701605",
+              "Order": "11",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701606",
+              "Order": "12",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701607",
+              "Order": "13",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701608",
+              "Order": "14",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701609",
+              "Order": "15",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701610",
+              "Order": "16",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701611",
+              "Order": "17",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701612",
+              "Order": "18",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701613",
+              "Order": "19",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701614",
+              "Order": "20",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701615",
+              "Order": "21",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": "Berryessa"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221726",
+        "LineRef": "Orange-S",
+        "TripCount": 108,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "Berryessa / North San Jose",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Berryessa/North San Jose"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701616",
+              "Order": "1",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701617",
+              "Order": "2",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701618",
+              "Order": "3",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701619",
+              "Order": "4",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701620",
+              "Order": "5",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701621",
+              "Order": "6",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701622",
+              "Order": "7",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701623",
+              "Order": "8",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701624",
+              "Order": "9",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701625",
+              "Order": "10",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701626",
+              "Order": "11",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701627",
+              "Order": "12",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701628",
+              "Order": "13",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701629",
+              "Order": "14",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701630",
+              "Order": "15",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701631",
+              "Order": "16",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701632",
+              "Order": "17",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701633",
+              "Order": "18",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701634",
+              "Order": "19",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701635",
+              "Order": "20",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": "Berryessa"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215704",
+        "LineRef": "Green-S",
+        "TripCount": 10,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Daly City",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Daly City"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701636",
+              "Order": "1",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701637",
+              "Order": "2",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701638",
+              "Order": "3",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701639",
+              "Order": "4",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701640",
+              "Order": "5",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701641",
+              "Order": "6",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701642",
+              "Order": "7",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701643",
+              "Order": "8",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701644",
+              "Order": "9",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701645",
+              "Order": "10",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701646",
+              "Order": "11",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701647",
+              "Order": "12",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701648",
+              "Order": "13",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701649",
+              "Order": "14",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701650",
+              "Order": "15",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701651",
+              "Order": "16",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701652",
+              "Order": "17",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "SF / Daly City"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215703",
+        "LineRef": "Green-S",
+        "TripCount": 191,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Daly City",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Daly City"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701653",
+              "Order": "1",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701654",
+              "Order": "2",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701655",
+              "Order": "3",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701656",
+              "Order": "4",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701657",
+              "Order": "5",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701658",
+              "Order": "6",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701659",
+              "Order": "7",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701660",
+              "Order": "8",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701661",
+              "Order": "9",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701662",
+              "Order": "10",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701663",
+              "Order": "11",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701664",
+              "Order": "12",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701665",
+              "Order": "13",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701666",
+              "Order": "14",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701667",
+              "Order": "15",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701668",
+              "Order": "16",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701669",
+              "Order": "17",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701670",
+              "Order": "18",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701671",
+              "Order": "19",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701672",
+              "Order": "20",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701673",
+              "Order": "21",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701674",
+              "Order": "22",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "SF / Daly City"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "221727",
+        "LineRef": "Red-S",
+        "TripCount": 123,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Millbrae (Caltrain Transfer Platform)",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Millbrae"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701702",
+              "Order": "1",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701703",
+              "Order": "2",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701704",
+              "Order": "3",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701705",
+              "Order": "4",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701706",
+              "Order": "5",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701707",
+              "Order": "6",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701708",
+              "Order": "7",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701709",
+              "Order": "8",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701710",
+              "Order": "9",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701711",
+              "Order": "10",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701712",
+              "Order": "11",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701713",
+              "Order": "12",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701714",
+              "Order": "13",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701715",
+              "Order": "14",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701716",
+              "Order": "15",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701717",
+              "Order": "16",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701718",
+              "Order": "17",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701719",
+              "Order": "18",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701720",
+              "Order": "19",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701721",
+              "Order": "20",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701722",
+              "Order": "21",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701723",
+              "Order": "22",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701724",
+              "Order": "23",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "SFO Airport / Millbrae"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701725",
+              "Order": "24",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "Millbrae (Caltrain Transfer Platform)"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701726",
+              "Order": "25",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": "Millbrae (Caltrain Transfer Platform)"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221728",
+        "LineRef": "Red-S",
+        "TripCount": 78,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "Millbrae (Caltrain Transfer Platform)",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Millbrae (Caltrain Transfer Platform)"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701727",
+              "Order": "1",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701728",
+              "Order": "2",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "N",
+        "Name": "North"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "221729",
+        "LineRef": "Red-N",
+        "TripCount": 123,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Richmond",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Richmond"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701729",
+              "Order": "1",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701730",
+              "Order": "2",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701731",
+              "Order": "3",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701732",
+              "Order": "4",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": "San Francisco / Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701733",
+              "Order": "5",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": "San Francisco / Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701734",
+              "Order": "6",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": "San Francisco / Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701735",
+              "Order": "7",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701736",
+              "Order": "8",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701737",
+              "Order": "9",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701738",
+              "Order": "10",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701739",
+              "Order": "11",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701740",
+              "Order": "12",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701741",
+              "Order": "13",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701742",
+              "Order": "14",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701743",
+              "Order": "15",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701744",
+              "Order": "16",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701745",
+              "Order": "17",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701746",
+              "Order": "18",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701747",
+              "Order": "19",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701748",
+              "Order": "20",
+              "ScheduledStopPointRef": "ASHB",
+              "Name": "Ashby",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701749",
+              "Order": "21",
+              "ScheduledStopPointRef": "DBRK",
+              "Name": "Downtown Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701750",
+              "Order": "22",
+              "ScheduledStopPointRef": "NBRK",
+              "Name": "North Berkeley",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701751",
+              "Order": "23",
+              "ScheduledStopPointRef": "PLZA",
+              "Name": "El Cerrito Plaza",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701752",
+              "Order": "24",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": "Richmond"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701753",
+              "Order": "25",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": "Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221730",
+        "LineRef": "Red-N",
+        "TripCount": 78,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "San Francisco International Airport",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "San Francisco International Airport"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701754",
+              "Order": "1",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701755",
+              "Order": "2",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "San Francisco / Richmond"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215712",
+        "LineRef": "Blue-S",
+        "TripCount": 271,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Daly City",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Daly City"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701756",
+              "Order": "1",
+              "ScheduledStopPointRef": "DUBL",
+              "Name": "Dublin / Pleasanton",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701757",
+              "Order": "2",
+              "ScheduledStopPointRef": "WDUB",
+              "Name": "West Dublin / Pleasanton",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701758",
+              "Order": "3",
+              "ScheduledStopPointRef": "CAST",
+              "Name": "Castro Valley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701759",
+              "Order": "4",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701760",
+              "Order": "5",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701761",
+              "Order": "6",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701762",
+              "Order": "7",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701763",
+              "Order": "8",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701764",
+              "Order": "9",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701765",
+              "Order": "10",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701766",
+              "Order": "11",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701767",
+              "Order": "12",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701768",
+              "Order": "13",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701769",
+              "Order": "14",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701770",
+              "Order": "15",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701771",
+              "Order": "16",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701772",
+              "Order": "17",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "SF / Daly City"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701773",
+              "Order": "18",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "SF / Daly City"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "220586",
+        "LineRef": "Blue-S",
+        "TripCount": 5,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Bay Fair",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Bay Fair"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701774",
+              "Order": "1",
+              "ScheduledStopPointRef": "DUBL",
+              "Name": "Dublin / Pleasanton",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701775",
+              "Order": "2",
+              "ScheduledStopPointRef": "WDUB",
+              "Name": "West Dublin / Pleasanton",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701776",
+              "Order": "3",
+              "ScheduledStopPointRef": "CAST",
+              "Name": "Castro Valley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701777",
+              "Order": "4",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "N",
+        "Name": "North"
+      },
+      {
+        "DirectionId": "OB",
+        "Name": "Outbound"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "221720",
+        "LineRef": "Yellow-N",
+        "TripCount": 57,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Antioch",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Antioch"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701334",
+              "Order": "1",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701335",
+              "Order": "2",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "San Francisco / Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701336",
+              "Order": "3",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701337",
+              "Order": "4",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701338",
+              "Order": "5",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701339",
+              "Order": "6",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701340",
+              "Order": "7",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701341",
+              "Order": "8",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701342",
+              "Order": "9",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701343",
+              "Order": "10",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701344",
+              "Order": "11",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701345",
+              "Order": "12",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701346",
+              "Order": "13",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701347",
+              "Order": "14",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701348",
+              "Order": "15",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701349",
+              "Order": "16",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701350",
+              "Order": "17",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701351",
+              "Order": "18",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701352",
+              "Order": "19",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701353",
+              "Order": "20",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701354",
+              "Order": "21",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701355",
+              "Order": "22",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701356",
+              "Order": "23",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701357",
+              "Order": "24",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701358",
+              "Order": "25",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701359",
+              "Order": "26",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701360",
+              "Order": "27",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701361",
+              "Order": "28",
+              "ScheduledStopPointRef": "PCTR",
+              "Name": "Pittsburg Center",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701362",
+              "Order": "29",
+              "ScheduledStopPointRef": "ANTC",
+              "Name": "Antioch",
+              "DestinationDisplayView": "Antioch"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221721",
+        "LineRef": "Yellow-N",
+        "TripCount": 6,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "San Francisco International Airport",
+        "DirectionRef": "OB",
+        "DestinationDisplayView": {
+          "FontText": "San Francisco International Airport"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701363",
+              "Order": "1",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701364",
+              "Order": "2",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "221722",
+        "LineRef": "Yellow-N",
+        "TripCount": 3,
+        "FromDate": "2024-01-16T00:00:00-08:00",
+        "ToDate": "2024-08-09T23:59:00-08:00",
+        "Name": "Pittsburg / Bay Point",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Pittsburg/Bay Point"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701365",
+              "Order": "1",
+              "ScheduledStopPointRef": "MLBR",
+              "Name": "Millbrae (Caltrain Transfer Platform)",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701366",
+              "Order": "2",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": "San Francisco / Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701367",
+              "Order": "3",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701368",
+              "Order": "4",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701369",
+              "Order": "5",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701370",
+              "Order": "6",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701371",
+              "Order": "7",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701372",
+              "Order": "8",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701373",
+              "Order": "9",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701374",
+              "Order": "10",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701375",
+              "Order": "11",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701376",
+              "Order": "12",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701377",
+              "Order": "13",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701378",
+              "Order": "14",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701379",
+              "Order": "15",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701380",
+              "Order": "16",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701381",
+              "Order": "17",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701382",
+              "Order": "18",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701383",
+              "Order": "19",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701384",
+              "Order": "20",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701385",
+              "Order": "21",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701386",
+              "Order": "22",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701387",
+              "Order": "23",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701388",
+              "Order": "24",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701389",
+              "Order": "25",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701390",
+              "Order": "26",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701391",
+              "Order": "27",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215696",
+        "LineRef": "Yellow-N",
+        "TripCount": 46,
+        "FromDate": "2024-01-16T00:00:00-08:00",
+        "ToDate": "2024-08-09T23:59:00-08:00",
+        "Name": "Pittsburg / Bay Point",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Pittsburg/Bay Point"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701392",
+              "Order": "1",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701393",
+              "Order": "2",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701394",
+              "Order": "3",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701395",
+              "Order": "4",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701396",
+              "Order": "5",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701397",
+              "Order": "6",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701398",
+              "Order": "7",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701399",
+              "Order": "8",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701400",
+              "Order": "9",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701401",
+              "Order": "10",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701402",
+              "Order": "11",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701403",
+              "Order": "12",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701404",
+              "Order": "13",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701405",
+              "Order": "14",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701406",
+              "Order": "15",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701407",
+              "Order": "16",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701408",
+              "Order": "17",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701409",
+              "Order": "18",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701410",
+              "Order": "19",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701411",
+              "Order": "20",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701412",
+              "Order": "21",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701413",
+              "Order": "22",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701414",
+              "Order": "23",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701415",
+              "Order": "24",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701416",
+              "Order": "25",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215693",
+        "LineRef": "Yellow-N",
+        "TripCount": 6,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Antioch",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Antioch"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701417",
+              "Order": "1",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701418",
+              "Order": "2",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701419",
+              "Order": "3",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701420",
+              "Order": "4",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701421",
+              "Order": "5",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701422",
+              "Order": "6",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701423",
+              "Order": "7",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701424",
+              "Order": "8",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701425",
+              "Order": "9",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701426",
+              "Order": "10",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701427",
+              "Order": "11",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701428",
+              "Order": "12",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701429",
+              "Order": "13",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701430",
+              "Order": "14",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701431",
+              "Order": "15",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701432",
+              "Order": "16",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701433",
+              "Order": "17",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701434",
+              "Order": "18",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701435",
+              "Order": "19",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701436",
+              "Order": "20",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701437",
+              "Order": "21",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701438",
+              "Order": "22",
+              "ScheduledStopPointRef": "PCTR",
+              "Name": "Pittsburg Center",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701439",
+              "Order": "23",
+              "ScheduledStopPointRef": "ANTC",
+              "Name": "Antioch",
+              "DestinationDisplayView": "Antioch"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215694",
+        "LineRef": "Yellow-N",
+        "TripCount": 213,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Antioch",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Antioch"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701440",
+              "Order": "1",
+              "ScheduledStopPointRef": "SFIA",
+              "Name": "San Francisco International Airport",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701441",
+              "Order": "2",
+              "ScheduledStopPointRef": "SBRN",
+              "Name": "San Bruno",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701442",
+              "Order": "3",
+              "ScheduledStopPointRef": "SSAN",
+              "Name": "South San Francisco",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701443",
+              "Order": "4",
+              "ScheduledStopPointRef": "COLM",
+              "Name": "Colma",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701444",
+              "Order": "5",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701445",
+              "Order": "6",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701446",
+              "Order": "7",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701447",
+              "Order": "8",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701448",
+              "Order": "9",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701449",
+              "Order": "10",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701450",
+              "Order": "11",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701451",
+              "Order": "12",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701452",
+              "Order": "13",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701453",
+              "Order": "14",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701454",
+              "Order": "15",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701455",
+              "Order": "16",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701456",
+              "Order": "17",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701457",
+              "Order": "18",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701458",
+              "Order": "19",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701459",
+              "Order": "20",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701460",
+              "Order": "21",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701461",
+              "Order": "22",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701462",
+              "Order": "23",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701463",
+              "Order": "24",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701464",
+              "Order": "25",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701465",
+              "Order": "26",
+              "ScheduledStopPointRef": "PCTR",
+              "Name": "Pittsburg Center",
+              "DestinationDisplayView": "Antioch"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701466",
+              "Order": "27",
+              "ScheduledStopPointRef": "ANTC",
+              "Name": "Antioch",
+              "DestinationDisplayView": "Antioch"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215697",
+        "LineRef": "Yellow-N",
+        "TripCount": 1,
+        "FromDate": "2024-01-16T00:00:00-08:00",
+        "ToDate": "2024-08-09T23:59:00-08:00",
+        "Name": "Pittsburg / Bay Point",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Pittsburg/Bay Point"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701467",
+              "Order": "1",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701468",
+              "Order": "2",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701469",
+              "Order": "3",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701470",
+              "Order": "4",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701471",
+              "Order": "5",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701472",
+              "Order": "6",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701473",
+              "Order": "7",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701474",
+              "Order": "8",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701475",
+              "Order": "9",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701476",
+              "Order": "10",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701477",
+              "Order": "11",
+              "ScheduledStopPointRef": "12TH",
+              "Name": "12th Street / Oakland City Center",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701478",
+              "Order": "12",
+              "ScheduledStopPointRef": "19TH",
+              "Name": "19th Street Oakland",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701479",
+              "Order": "13",
+              "ScheduledStopPointRef": "MCAR",
+              "Name": "MacArthur",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701480",
+              "Order": "14",
+              "ScheduledStopPointRef": "ROCK",
+              "Name": "Rockridge",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701481",
+              "Order": "15",
+              "ScheduledStopPointRef": "ORIN",
+              "Name": "Orinda",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701482",
+              "Order": "16",
+              "ScheduledStopPointRef": "LAFY",
+              "Name": "Lafayette",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701483",
+              "Order": "17",
+              "ScheduledStopPointRef": "WCRK",
+              "Name": "Walnut Creek",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701484",
+              "Order": "18",
+              "ScheduledStopPointRef": "PHIL",
+              "Name": "Pleasant Hill / Contra Costa Centre",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701485",
+              "Order": "19",
+              "ScheduledStopPointRef": "CONC",
+              "Name": "Concord",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701486",
+              "Order": "20",
+              "ScheduledStopPointRef": "NCON",
+              "Name": "North Concord / Martinez",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701487",
+              "Order": "21",
+              "ScheduledStopPointRef": "PITT",
+              "Name": "Pittsburg / Bay Point",
+              "DestinationDisplayView": "Pittsburg / Bay Point"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "OB",
+        "Name": "Outbound"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "221731",
+        "LineRef": "BridgeA",
+        "TripCount": 108,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "El Cerrito Del Norte",
+        "DirectionRef": "OB",
+        "DestinationDisplayView": {
+          "FontText": "Bus Bridge"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701804",
+              "Order": "1",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701805",
+              "Order": "2",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "221732",
+        "LineRef": "BridgeB",
+        "TripCount": 110,
+        "FromDate": "2024-02-17T00:00:00-08:00",
+        "ToDate": "2024-04-14T23:59:00-08:00",
+        "Name": "Richmond",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Bus Bridge"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701806",
+              "Order": "1",
+              "ScheduledStopPointRef": "DELN",
+              "Name": "El Cerrito Del Norte",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701807",
+              "Order": "2",
+              "ScheduledStopPointRef": "RICH",
+              "Name": "Richmond",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "N",
+        "Name": "North"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215715",
+        "LineRef": "Blue-N",
+        "TripCount": 271,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Dublin / Pleasanton",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Dublin/Pleasanton"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701778",
+              "Order": "1",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701779",
+              "Order": "2",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701780",
+              "Order": "3",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701781",
+              "Order": "4",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701782",
+              "Order": "5",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701783",
+              "Order": "6",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701784",
+              "Order": "7",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701785",
+              "Order": "8",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701786",
+              "Order": "9",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "OAK Airport / Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701787",
+              "Order": "10",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "OAK Airport / Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701788",
+              "Order": "11",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "OAK Airport / Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701789",
+              "Order": "12",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "OAK Airport / Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701790",
+              "Order": "13",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701791",
+              "Order": "14",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": "Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701792",
+              "Order": "15",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": "Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701793",
+              "Order": "16",
+              "ScheduledStopPointRef": "CAST",
+              "Name": "Castro Valley",
+              "DestinationDisplayView": "Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701794",
+              "Order": "17",
+              "ScheduledStopPointRef": "WDUB",
+              "Name": "West Dublin / Pleasanton",
+              "DestinationDisplayView": "Dublin/Pleasanton"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701795",
+              "Order": "18",
+              "ScheduledStopPointRef": "DUBL",
+              "Name": "Dublin / Pleasanton",
+              "DestinationDisplayView": "Dublin/Pleasanton"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "220587",
+        "LineRef": "Blue-N",
+        "TripCount": 5,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Dublin / Pleasanton",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Dublin/Pleasanton"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701796",
+              "Order": "1",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701797",
+              "Order": "2",
+              "ScheduledStopPointRef": "CAST",
+              "Name": "Castro Valley",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701798",
+              "Order": "3",
+              "ScheduledStopPointRef": "WDUB",
+              "Name": "West Dublin / Pleasanton",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701799",
+              "Order": "4",
+              "ScheduledStopPointRef": "DUBL",
+              "Name": "Dublin / Pleasanton",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "S",
+        "Name": "South"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215719",
+        "LineRef": "Beige-S",
+        "TripCount": 502,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Oakland International Airport Station",
+        "DirectionRef": "S",
+        "DestinationDisplayView": {
+          "FontText": "Oakland Airport"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701802",
+              "Order": "1",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701803",
+              "Order": "2",
+              "ScheduledStopPointRef": "OAKL",
+              "Name": "Oakland International Airport Station",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "N",
+        "Name": "North"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215718",
+        "LineRef": "Beige-N",
+        "TripCount": 503,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Coliseum",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Coliseum"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701800",
+              "Order": "1",
+              "ScheduledStopPointRef": "OAKL",
+              "Name": "Oakland International Airport Station",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701801",
+              "Order": "2",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  },
+  {
+    "directions": [
+      {
+        "DirectionId": "N",
+        "Name": "North"
+      }
+    ],
+    "journeyPatterns": [
+      {
+        "serviceJourneyPatternRef": "215705",
+        "LineRef": "Green-N",
+        "TripCount": 15,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Berryessa / North San Jose",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Berryessa/North San Jose"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701675",
+              "Order": "1",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701676",
+              "Order": "2",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701677",
+              "Order": "3",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701678",
+              "Order": "4",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701679",
+              "Order": "5",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": ""
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      },
+      {
+        "serviceJourneyPatternRef": "215706",
+        "LineRef": "Green-N",
+        "TripCount": 201,
+        "FromDate": "2024-01-15T00:00:00-08:00",
+        "ToDate": "2024-08-11T23:59:00-08:00",
+        "Name": "Berryessa / North San Jose",
+        "DirectionRef": "N",
+        "DestinationDisplayView": {
+          "FontText": "Berryessa/North San Jose"
+        },
+        "PointsInSequence": {
+          "StopPointInJourneyPattern": [],
+          "TimingPointInJourneyPattern": [
+            {
+              "TimingPointInJourneyPatternId": "15701680",
+              "Order": "1",
+              "ScheduledStopPointRef": "DALY",
+              "Name": "Daly City",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701681",
+              "Order": "2",
+              "ScheduledStopPointRef": "BALB",
+              "Name": "Balboa Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701682",
+              "Order": "3",
+              "ScheduledStopPointRef": "GLEN",
+              "Name": "Glen Park",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701683",
+              "Order": "4",
+              "ScheduledStopPointRef": "24TH",
+              "Name": "24th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701684",
+              "Order": "5",
+              "ScheduledStopPointRef": "16TH",
+              "Name": "16th Street / Mission",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701685",
+              "Order": "6",
+              "ScheduledStopPointRef": "CIVC",
+              "Name": "Civic Center / UN Plaza",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701686",
+              "Order": "7",
+              "ScheduledStopPointRef": "POWL",
+              "Name": "Powell Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701687",
+              "Order": "8",
+              "ScheduledStopPointRef": "MONT",
+              "Name": "Montgomery Street",
+              "DestinationDisplayView": ""
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701688",
+              "Order": "9",
+              "ScheduledStopPointRef": "EMBR",
+              "Name": "Embarcadero",
+              "DestinationDisplayView": "OAK Airport / Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701689",
+              "Order": "10",
+              "ScheduledStopPointRef": "WOAK",
+              "Name": "West Oakland",
+              "DestinationDisplayView": "OAK Airport / Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701690",
+              "Order": "11",
+              "ScheduledStopPointRef": "LAKE",
+              "Name": "Lake Merritt",
+              "DestinationDisplayView": "OAK Airport / Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701691",
+              "Order": "12",
+              "ScheduledStopPointRef": "FTVL",
+              "Name": "Fruitvale",
+              "DestinationDisplayView": "OAK Airport / Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701692",
+              "Order": "13",
+              "ScheduledStopPointRef": "COLS",
+              "Name": "Coliseum",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701693",
+              "Order": "14",
+              "ScheduledStopPointRef": "SANL",
+              "Name": "San Leandro",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701694",
+              "Order": "15",
+              "ScheduledStopPointRef": "BAYF",
+              "Name": "Bay Fair",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701695",
+              "Order": "16",
+              "ScheduledStopPointRef": "HAYW",
+              "Name": "Hayward",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701696",
+              "Order": "17",
+              "ScheduledStopPointRef": "SHAY",
+              "Name": "South Hayward",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701697",
+              "Order": "18",
+              "ScheduledStopPointRef": "UCTY",
+              "Name": "Union City",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701698",
+              "Order": "19",
+              "ScheduledStopPointRef": "FRMT",
+              "Name": "Fremont",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701699",
+              "Order": "20",
+              "ScheduledStopPointRef": "WARM",
+              "Name": "Warm Springs / South Fremont",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701700",
+              "Order": "21",
+              "ScheduledStopPointRef": "MLPT",
+              "Name": "Milpitas",
+              "DestinationDisplayView": "Berryessa"
+            },
+            {
+              "TimingPointInJourneyPatternId": "15701701",
+              "Order": "22",
+              "ScheduledStopPointRef": "BERY",
+              "Name": "Berryessa / North San Jose",
+              "DestinationDisplayView": "Berryessa"
+            }
+          ]
+        },
+        "LinksInSequence": {
+          "ServiceLinkInJourneyPattern": ""
+        }
+      }
+    ]
+  }
+]

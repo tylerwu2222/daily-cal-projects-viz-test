@@ -1,0 +1,21 @@
+@media (max-width: 767px) {
+
+  /* For mobile devices with a maximum viewport width of 767px */
+  #project-type-svg-div {
+    width: 100%;
+  }
+
+  #project-type-svg {
+    width: 100%;
+  }
+}
+
+.Completed-text-group,
+.InProgress-text-group {
+  font-size: 12px;
+  opacity: 0;
+}
+
+text:hover{
+  cursor: default;
+}
