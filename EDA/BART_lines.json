@@ -88,28 +88,6 @@
     "OperatorRef": "BA"
   },
   {
-    "Id": "BridgeA",
-    "Name": "Bus Bridge",
-    "FromDate": "2024-02-17T00:00:00-08:00",
-    "ToDate": "2024-04-14T23:59:00-08:00",
-    "TransportMode": "bus",
-    "PublicCode": "BridgeA",
-    "SiriLineRef": "",
-    "Monitored": false,
-    "OperatorRef": "BA"
-  },
-  {
-    "Id": "BridgeB",
-    "Name": "Bus Bridge",
-    "FromDate": "2024-02-17T00:00:00-08:00",
-    "ToDate": "2024-04-14T23:59:00-08:00",
-    "TransportMode": "bus",
-    "PublicCode": "BridgeB",
-    "SiriLineRef": "",
-    "Monitored": false,
-    "OperatorRef": "BA"
-  },
-  {
     "Id": "Blue-N",
     "Name": "Daly City to Dublin/Pleasanton",
     "FromDate": "2024-01-15T00:00:00-08:00",

@@ -1,5 +1,5 @@
 {
-    "Civic Center\/UN Plaza": {
+    "Civic Center / UN Plaza": {
         "12th Street / Oakland City Center": 4.05,
         "16th Street / Mission": 2.3,
         "19th Street Oakland": 4.05,
@@ -207,7 +207,7 @@
         "West Dublin / Pleasanton": 7.0,
         "West Oakland": 3.75
     },
-    "24th Street\/Mission": {
+    "24th Street / Mission": {
         "12th Street / Oakland City Center": 4.4,
         "16th Street / Mission": 2.3,
         "19th Street Oakland": 4.4,
@@ -623,7 +623,7 @@
         "West Dublin / Pleasanton": 5.0,
         "West Oakland": 2.3
     },
-    "12th Street\/Oakland City Center": {
+    "12th Street / Oakland City Center": {
         "12th Street / Oakland City Center": 6.75,
         "16th Street / Mission": 4.25,
         "19th Street Oakland": 2.3,
@@ -1767,7 +1767,7 @@
         "West Dublin / Pleasanton": 4.5,
         "West Oakland": 4.35
     },
-    "Pleasant Hill\/Contra Costa Centre": {
+    "Pleasant Hill / Contra Costa Centre": {
         "12th Street / Oakland City Center": 4.3,
         "16th Street / Mission": 6.45,
         "19th Street Oakland": 4.3,
@@ -1819,7 +1819,7 @@
         "West Dublin / Pleasanton": 6.75,
         "West Oakland": 4.45
     },
-    "16th Street\/Mission": {
+    "16th Street / Mission": {
         "12th Street / Oakland City Center": 4.25,
         "16th Street / Mission": 6.75,
         "19th Street Oakland": 4.25,
@@ -1975,7 +1975,7 @@
         "West Dublin / Pleasanton": 7.2,
         "West Oakland": 4.9
     },
-    "West Dublin\/Pleasanton": {
+    "West Dublin / Pleasanton": {
         "12th Street / Oakland City Center": 5.0,
         "16th Street / Mission": 7.1,
         "19th Street Oakland": 5.0,
@@ -2027,7 +2027,7 @@
         "West Dublin / Pleasanton": 6.75,
         "West Oakland": 5.1
     },
-    "North Concord\/Martinez": {
+    "North Concord / Martinez": {
         "12th Street / Oakland City Center": 5.0,
         "16th Street / Mission": 7.15,
         "19th Street Oakland": 5.0,
@@ -2079,7 +2079,7 @@
         "West Dublin / Pleasanton": 7.45,
         "West Oakland": 5.15
     },
-    "Dublin\/Pleasanton": {
+    "Dublin / Pleasanton": {
         "12th Street / Oakland City Center": 5.2,
         "16th Street / Mission": 7.3,
         "19th Street Oakland": 5.2,
@@ -2183,7 +2183,7 @@
         "West Dublin / Pleasanton": 5.5,
         "West Oakland": 5.3
     },
-    "Pittsburg\/Bay Point": {
+    "Pittsburg / Bay Point": {
         "12th Street / Oakland City Center": 5.6,
         "16th Street / Mission": 7.75,
         "19th Street Oakland": 5.6,
@@ -2235,7 +2235,7 @@
         "West Dublin / Pleasanton": 8.05,
         "West Oakland": 5.75
     },
-    "Warm Springs\/South Fremont": {
+    "Warm Springs / South Fremont": {
         "12th Street / Oakland City Center": 5.7,
         "16th Street / Mission": 7.8,
         "19th Street Oakland": 5.7,
@@ -2443,7 +2443,7 @@
         "West Dublin / Pleasanton": 9.0,
         "West Oakland": 6.7
     },
-    "Berryessa\/North San Jose": {
+    "Berryessa / North San Jose": {
         "12th Street / Oakland City Center": 6.85,
         "16th Street / Mission": 8.95,
         "19th Street Oakland": 6.85,
